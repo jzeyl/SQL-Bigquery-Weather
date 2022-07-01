@@ -60,9 +60,3 @@ with date_range as
     date('2021-06-25') as start_date,
     date('2019-06-25') as end_date)
 
-
-4.	get hottest temperature for all Canadian during the heatwave (Jun 25-Jul 7)
-5.	get data from station(s) (e.g. lytton done) on the hottest day (demonstrate subquery)
-6.	Get list of stations (name, lat, long) and max temperatuer that recorded over 40 degrees max during the heat wave (vizualize the region of t he heatwave)
-7.	 Get max daily temperature in lytton during the heatwave (date-range)
-8.	Get historical max temperature for last 10 years for those days, and average those (aggregate)
