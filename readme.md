@@ -17,4 +17,7 @@ I'm using this data to focust on the heatwave that occurred in western Canada in
 5. Count the days for all stations in Canada where the temperature was 35 or greater (window function)
 
 # Dashboard
+Interactive [version on Tableau Public](https://public.tableau.com/app/profile/jeff.zeyl/viz/2021heatwavewesterncanada/Dashboard1)
+
 ![](https://github.com/jzeyl/SQL-Bigquery-Weather/blob/main/Tableau%20heat%20wave.png)
+
