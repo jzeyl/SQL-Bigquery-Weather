@@ -1,6 +1,6 @@
 # Objective
 
-This portfolio project demonstrates SQL queries, Python, and visualization with Tableau. The queries are called called in python code as strings, but also supplied here in a separate SQL file for easier visualization. Dataframes are exported as csv and loaded into Tableau.
+This portfolio project demonstrates SQL queries, Python, and visualization with Tableau. The queries are called in python code as strings, but also supplied here in a separate SQL file for easier visualization. Dataframes are exported as csv and loaded into Tableau.
 
 # Tools
 SQL | Python | Tableau
